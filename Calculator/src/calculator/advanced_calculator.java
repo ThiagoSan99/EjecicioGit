@@ -2,10 +2,7 @@ package calculator;
 
 import java.util.Scanner;
 
-/**
- *
- * @author Hewlett Packard
- */
+//mensaje pa ver alguito
 public class base_calculator {
     Scanner leer = new Scanner(System.in);
     public double multi(){
